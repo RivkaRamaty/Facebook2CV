@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\C18 Ex03 KobiShpak 308273317 RivkaRamaty 200356871\Facebook2CV.UI\obj\Debug\Facebook2CV.UI.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\C18 Ex03 KobiShpak 308273317 RivkaRamaty 200356871\Facebook2CV.UI\obj\Debug\Facebook2CV.UI.EditAndSaveForm.resources
+C:\Users\Owner\Desktop\C18 Ex03 KobiShpak 308273317 RivkaRamaty 200356871\Facebook2CV.UI\obj\Debug\Facebook2CV.UI.MainForm.resources
+C:\Users\Owner\Desktop\C18 Ex03 KobiShpak 308273317 RivkaRamaty 200356871\Facebook2CV.UI\obj\Debug\Facebook2CV.UI.Properties.Resources.resources
+C:\Users\Owner\Desktop\C18 Ex03 KobiShpak 308273317 RivkaRamaty 200356871\Facebook2CV.UI\obj\Debug\Facebook2CV.UI.csproj.GenerateResource.Cache
